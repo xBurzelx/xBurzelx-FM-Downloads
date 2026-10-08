@@ -155,6 +155,11 @@
           "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/views/xBurzelx%20Entwicklungs%C3%BCbersicht.fmf"
         },
         {
+          "name": "xBurzelx Home Screen",
+          "desc": "Angepasste Hauptbildschirm-Ansicht für den FM26",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/views/xBurzelx%20Home%20Screen.fmf"
+        },
+        {
           "name": "xBurzelx Vertragsübersicht",
           "desc": "Kader-Ansicht für Gehälter und Vertragslaufzeiten",
           "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/views/xBurzelx%20Vertrags%C3%BCbersicht.fmf"
