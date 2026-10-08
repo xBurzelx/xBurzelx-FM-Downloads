@@ -1,0 +1,165 @@
+{
+  "versions": [
+    { "id": "FM26" }
+  ],
+  "groups": [
+    {
+      "name": "Taktiken (.fmf)",
+      "color": "#5b82f0",
+      "version": "FM26",
+      "items": [
+        {
+          "name": "xBurzelx FM26 3421 - 541",
+          "desc": "Taktik 3-4-2-1 / 5-4-1 für FM26",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/tactics/xBurzelx%20FM26%203421%20-%20541.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 41131 - 41221",
+          "desc": "Taktik 4-1-1-3-1 / 4-1-2-2-1 für FM26",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/tactics/xBurzelx%20FM26%2041131%20-%2041221.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 424 - 442",
+          "desc": "Taktik 4-2-4 / 4-4-2 für FM26",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/tactics/xBurzelx%20FM26%20424%20-%20442.fmf"
+        }
+      ]
+    },
+    {
+      "name": "Standardsituationen",
+      "color": "#ffd700",
+      "version": "FM26",
+      "items": [
+        {
+          "name": "xBurzelx FM26 Standard Set",
+          "desc": "Komplettes Standard-Set für FM26",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Standard%20Set.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Außen-Defensiv",
+          "desc": "Setpiece: Außen-Freistöße Defensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Au%C3%9Fen-Defensiv%20.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Außen-Offensiv",
+          "desc": "Setpiece: Außen-Freistöße Offensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Au%C3%9Fen-Offensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Ecke Defensiv",
+          "desc": "Setpiece: Ecken Defensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Ecke%20Defensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Ecke Offensiv",
+          "desc": "Setpiece: Ecken Offensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Ecke%20Offensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Einwurf Defensivdrittel-Defensiv",
+          "desc": "Setpiece: Einwurf Defensivdrittel (Defensiv)",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Einwurf%20Defensivdrittel-Defensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Einwurf-Angriffsdrittel Offensiv",
+          "desc": "Setpiece: Einwurf Angriffsdrittel (Offensiv)",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Einwurf-Angriffsdrittel%20Offensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Einwurf-Defensivdrittel Offensiv",
+          "desc": "Setpiece: Einwurf Defensivdrittel (Offensiv)",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Einwurf-Defensivdrittel%20Offensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Einwurf-Mittleres Drittel Offensiv",
+          "desc": "Setpiece: Einwurf mittleres Drittel (Offensiv)",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Einwurf-Mittleres%20Drittel%20Offensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Schussbereich Defensiv",
+          "desc": "Setpiece: Freistöße Schussbereich Defensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Schussbereich%20Defensiv.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Schussbereich Offensive",
+          "desc": "Setpiece: Freistöße Schussbereich Offensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Schussbereich%20Offensive.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Tief-Offensiv",
+          "desc": "Setpiece: Tiefe Freistöße Offensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Tief-Offensiv%20.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Tief-Defensiv",
+          "desc": "Setpiece: Tiefe Freistöße Defensiv",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/set-pieces/xBurzelx%20FM26%20Tief-Defensiv.fmf"
+        }
+      ]
+    },
+    {
+      "name": "Trainingspläne",
+      "color": "#ff4dff",
+      "version": "FM26",
+      "items": [
+        {
+          "name": "xBurzelx FM26 Di - Sa",
+          "desc": "Trainingswoche für Spiele am Dienstag und Samstag",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20FM26%20Di%20-%20Sa%20.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Mi - Sa",
+          "desc": "Trainingswoche für Spiele am Mittwoch und Samstag",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20FM26%20Mi%20-%20Sa%20.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Do - So",
+          "desc": "Trainingswoche für Spiele am Donnerstag und Sonntag",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20FM26%20Do%20-%20So.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Sa",
+          "desc": "Reguläre Trainingswoche mit Spiel am Samstag",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20FM26%20Sa.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Vorbereitung früh",
+          "desc": "Saisonvorbereitung: Frühe Phase",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20FM26%20Vorbereitung%20fr%C3%BCh.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Vorbereitung Mitte",
+          "desc": "Saisonvorbereitung: Mittlere Phase",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20FM26%20Vorbereitung%20Mitte.fmf"
+        },
+        {
+          "name": "xBurzelx FM26 Vorbereitung Spät",
+          "desc": "Saisonvorbereitung: Späte Phase",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20FM26%20Vorbereitung%20Sp%C3%A4t.fmf"
+        },
+        {
+          "name": "xBurzelx Trainingswoche Taktik & Teambuilding",
+          "desc": "Fokus auf Taktikverständnis und Teamgeist",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/training/xBurzelx%20Trainingswoche%20f%C3%BCr%20Taktik%20und%20Teambuilding.fmf"
+        }
+      ]
+    },
+    {
+      "name": "Ansichten (.fmf)",
+      "color": "#00d2ff",
+      "version": "FM26",
+      "items": [
+        {
+          "name": "xBurzelx Entwicklungsübersicht",
+          "desc": "Kader-Ansicht für Spielerentwicklung",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/views/xBurzelx%20Entwicklungs%C3%BCbersicht.fmf"
+        },
+        {
+          "name": "xBurzelx Vertragsübersicht",
+          "desc": "Kader-Ansicht für Gehälter und Vertragslaufzeiten",
+          "url": "https://github.com/xBurzelx/xBurzelx-FM-Downloads/raw/main/xBurzelx-FM-Downloads/fm26/views/xBurzelx%20Vertrags%C3%BCbersicht.fmf"
+        }
+      ]
+    }
+  ]
+}
